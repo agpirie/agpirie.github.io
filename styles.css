@@ -3,7 +3,7 @@ body {
     font-family: Open Sans;
     background-image: url(background.jpg);
     background-size: 100%;
-    background-position: cover;
+    background-position: contain;
     background-repeat: no-repeat;
 }
 
