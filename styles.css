@@ -11,7 +11,7 @@ body {
 .navbar {
     border-radius: 10px;
     background-color: azure;
-    width: 80%;
+    width: 90%;
     height: 75px;
     position: center;
 }
@@ -29,7 +29,7 @@ body {
 
 .block1 {
     background-color: azure;
-    width: 80%;
+    width: 90%;
     border-radius: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -45,7 +45,7 @@ body {
 }
 
 .blogpost {
-    width: 80%;
+    width: 90%;
     background-color: azure;
     border-radius: 10px;
     padding-top: 5px;
