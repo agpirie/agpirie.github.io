@@ -2,7 +2,6 @@
 body {
     font-family: Open Sans;
     background-image: url(background.jpg);
-    background-size: 100%;
     background-size: contain;
     background-repeat: no-repeat;
 }
