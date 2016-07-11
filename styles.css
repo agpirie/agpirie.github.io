@@ -12,16 +12,30 @@ body {
     border-radius: 10px;
     background-color: azure;
     width: 90%;
-    height: 75px;
+    height: 60px;
     position: center;
 }
 
 .navlink {
     float: left;
     padding-left: 30px;
+    font-size: 20px;
 }
 .navlink:hover {
     float: left;
+    padding-left: 30px;
+    text-decoration: underline;
+    -webkit-transition: 0.5s ease-in-out;
+}
+
+.navlink-bessos {
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+.navlink-bessos:hover {
+    float: right;
     padding-left: 30px;
     text-decoration: underline;
     -webkit-transition: 0.5s ease-in-out;
@@ -63,4 +77,8 @@ body {
 .blogtext {
     padding-right: 5px;
     padding-left: 5px;
+}
+
+.updatetext {
+    font-size: 40px;
 }
