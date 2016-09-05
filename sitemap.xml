@@ -13,12 +13,11 @@
   <loc>https://agpirie.github.io/index.html</loc>
   <lastmod>2016-07-10T12:41:26+00:00</lastmod>
 </url>
-<url>
-  <loc>https://agpirie.github.io/blog.html</loc>
+    
+   <url> <loc>https://agpirie.github.io/bessmemorial</loc>
   <lastmod>2016-07-10T12:41:26+00:00</lastmod>
 </url>
-<url>
-    <loc>https://agpirie.github.io/bessos.html</loc>
-    <lastmod>2016-07-10T12:41:26+00:00</lastmod>
+    
+    <url> <loc>https://agpirie.github.io/bessmemorial/index.html</loc>
+  <lastmod>2016-07-10T12:41:26+00:00</lastmod>
 </url>
-</urlset>
