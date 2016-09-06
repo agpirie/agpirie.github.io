@@ -38,7 +38,6 @@ h2 {
     height: 70px;
     width: 200px;
     display: inline-block;
-    margin: 0 auto;
     text-align: center;
     object-position: center;
     float: center;
@@ -50,7 +49,7 @@ h2 {
 
 .linkrow {
     height: 70px;
-    width: 100%;
+    width: 90%;
     position: center;
     object-position: center;
     margin-right: auto;
