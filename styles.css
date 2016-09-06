@@ -19,13 +19,13 @@ h2 {
 
 .link {
     transition: ease-in-out 0.2s;
-    font-size: 20px;
+    font-size: 25px;
     border-style: solid;
     border-width: 2px;
     border-radius: 8px;
     border-color: antiquewhite;
-    width: 200px;
-    height: 65px;
+    width: 250px;
+    height: 85px;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ h2 {
     color: black;
 }
 .beforelink {
-    height: 65px;
+    height: 85px;
     width: 200px;
     display: inline-block;
     margin: 0 auto;
