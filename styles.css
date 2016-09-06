@@ -24,7 +24,7 @@ h2 {
     border-width: 2px;
     border-radius: 8px;
     border-color: antiquewhite;
-    width: 175px;
+    width: 150px;
     height: 65px;
     text-align: center;
 }
@@ -38,13 +38,13 @@ h2 {
     border-width: 2px;
     border-radius: 8px;
     border-color: antiquewhite;
-    width: 175px;
+    width: 150px;
     height: 65px;
     text-align: center;
 }
 .beforelink {
     height: 65px;
-    width: 175px;
+    width: 150px;
     display: inline-block;
     margin: 0 auto;
     text-align: center;
