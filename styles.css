@@ -25,7 +25,7 @@ h2 {
     border-radius: 8px;
     border-color: antiquewhite;
     width: 175px;
-    height: 67.5px;
+    height: 65px;
     text-align: center;
 }
 
@@ -39,11 +39,11 @@ h2 {
     border-radius: 8px;
     border-color: antiquewhite;
     width: 175px;
-    height: 67.5px;
+    height: 65px;
     text-align: center;
 }
 .beforelink {
-    height: 67.5px;
+    height: 65px;
     width: 175px;
     display: inline-block;
     margin: 0 auto;
