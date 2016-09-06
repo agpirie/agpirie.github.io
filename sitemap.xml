@@ -1,14 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset>
 <url>
-  <loc>https://agpirie.github.io/</loc>
-  <lastmod>2016-09-05T22:44:06+00:00</lastmod>
-  <changefreq>always</changefreq>
+<loc>https://agpirie.github.io/</loc>
+<lastmod>2016-09-05T22:44:06+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://agpirie.github.io/bessmemorial</loc>
+<lastmod>2016-09-05T22:44:06+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://agpirie.github.io/blueblog</loc>
+<lastmod>2016-09-05T22:44:06+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://agpirie.github.io/bessblog</loc>
+<lastmod>2016-09-05T22:44:06+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://agpirie.github.io/privacypolicy</loc>
+<lastmod>2016-09-05T22:44:06+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
 </url>
 </urlset>

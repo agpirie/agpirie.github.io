@@ -1,84 +1,68 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Ubuntu';
+
 body {
-    font-family: Open Sans;
-    background: url(background.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    background-color: #070707;
+    color: antiquewhite;
+}
+.title {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 25px;
 }
 
-.navbar {
-    border-radius: 10px;
-    background-color: azure;
-    width: 90%;
-    height: auto;
-    position: center;
+h2 {
+    text-align: center;
+    font-size: 25px;
 }
 
-.navlink {
-    float: left;
-    padding-left: 30px;
+.link {
+    transition: ease-in-out 0.2s;
     font-size: 20px;
-}
-.navlink:hover {
-    float: left;
-    padding-left: 30px;
-    text-decoration: underline;
-    -webkit-transition: 0.5s ease-in-out;
-}
-
-.navlink-bessos {
-    float: right;
-    padding-left: 30px;
-    padding-right: 30px;
-    font-size: 20px;
-}
-.navlink-bessos:hover {
-    float: right;
-    padding-left: 30px;
-    text-decoration: underline;
-    -webkit-transition: 0.5s ease-in-out;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: antiquewhite;
+    width: 200px;
+    height: 70px;
+    text-align: center;
 }
 
-.block1 {
-    background-color: azure;
-    width: 90%;
-    border-radius: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-size: 20px;
+.link:hover {
+    transition: ease-in-out 0.2s;
+    background-color: antiquewhite;
+    color: black;
 }
-
-.separater {
-    padding: 25px;
-}
-
-.bess {
-    font-size: 90
-}
-
-.blogpost {
-    width: 90%;
-    background-color: azure;
-    border-radius: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.blogtitle {
-}
-
-.blogdate {
-    float: right;
-    padding-right: 10px;
-}
-
-.blogtext {
-    padding-right: 5px;
+.beforelink {
+    height: 70px;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    object-position: center;
+    float: center;
     padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
-.updatetext {
-    font-size: 40px;
+.linkrow {
+    height: 70px;
+    width: 95%;
+    position: center;
+    object-position: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.beforelink1 {
+    display: inline-block; margin-right: 10px;
+}
+
+.links {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-top: 25px;
 }
