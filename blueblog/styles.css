@@ -1,0 +1,68 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Ubuntu';
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #070707;
+    color: antiquewhite;
+}
+.title {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.link {
+    transition: ease-in-out 0.2s;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: antiquewhite;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+}
+
+.link:hover {
+    transition: ease-in-out 0.2s;
+    background-color: antiquewhite;
+    color: black;
+}
+.beforelink {
+    height: 70px;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    object-position: center;
+    float: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.linkrow {
+    height: 70px;
+    width: 95%;
+    position: center;
+    object-position: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.beforelink1 {
+    display: inline-block; margin-right: 10px;
+}
+
+.links {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-top: 25px;
+}
